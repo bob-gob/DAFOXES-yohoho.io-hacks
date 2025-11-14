@@ -17,3 +17,5 @@ hit enter.
 Now you have hacked yohoho.io!
 
 (close the console before clicking buttons otherwise it will not work)
+
+THIS IS HTML CODE. NOT JAVASCRIPT EVEN THOUGH IT SAYS THAT.
